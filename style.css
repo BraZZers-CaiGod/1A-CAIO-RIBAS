@@ -24,3 +24,17 @@ h2 {
      text-align: left;
      font-size:40;
 }
+
+
+   .minhalista{
+
+   color:green;
+   text-align: right;
+   font-size:40;
+}
+   .materiasfavoritas{
+
+    color:yellow;
+    text-align: right;
+    font-size:40;
+}
