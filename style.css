@@ -31,10 +31,28 @@ h2 {
    color:green;
    text-align: right;
    font-size:40;
+   background:black
 }
    .materiasfavoritas{
 
     color:yellow;
     text-align: right;
     font-size:40;
+    background:black
 }
+
+.imagens{
+     text-align: center;
+     background:black;
+}
+
+#imagem{
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 40px;
+    padding: 10px;
+    margin-left: 560px;
+    margin-right: 560px;}
+
